@@ -1,0 +1,194 @@
+[
+  {
+    "id": "1ad883cd-df0b-4ca7-8803-26f77060a361",
+    "data": [
+      {
+        "text": "covid 19 active cases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c59afc25-6168-43d1-abb1-ce3abe99ff8f",
+    "data": [
+      {
+        "text": "corona virus active cases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52c594b2-549d-4ac7-b00b-07ab7880c400",
+    "data": [
+      {
+        "text": "corona virus recovered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abc74308-2051-42e7-8202-468073c51499",
+    "data": [
+      {
+        "text": "corona virus deaths",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "132cb9ef-721e-4074-a39d-ee608c03ff27",
+    "data": [
+      {
+        "text": "corona virus number of people affected",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6dd73df4-d151-4844-bc82-308703edbfa1",
+    "data": [
+      {
+        "text": "corona virus cases in ",
+        "userDefined": false
+      },
+      {
+        "text": "india",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29f2181b-7d37-4bc3-9f63-030d51d43405",
+    "data": [
+      {
+        "text": "corona cases in ",
+        "userDefined": false
+      },
+      {
+        "text": "india",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e4f68ec-d5b1-46fd-be72-f95cdf743834",
+    "data": [
+      {
+        "text": "covid 19 graphs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23695265-05ce-446d-a060-53bf0c46f3d7",
+    "data": [
+      {
+        "text": "statistics for covid 19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19a2f69a-0288-4ec7-8e99-258d4dfdc362",
+    "data": [
+      {
+        "text": "covid-19 cases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69732bcc-389f-4e30-9d5b-20839b801a25",
+    "data": [
+      {
+        "text": "covid-19 cases in ",
+        "userDefined": false
+      },
+      {
+        "text": "chennai",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3f6af55-d969-4b69-ad21-7d6a6cf7bf09",
+    "data": [
+      {
+        "text": "covid-19 cases in ",
+        "userDefined": false
+      },
+      {
+        "text": "india",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "732463e1-2023-404b-b288-d8d1e24ed2c3",
+    "data": [
+      {
+        "text": "number of corona virus victims and statistics and graph",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31181617-0aee-4e3f-92dd-3b4c73c7d997",
+    "data": [
+      {
+        "text": "where can i find the statistics about corona virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "id": "cc459323-3447-4f58-8422-97a4089d9e9b",
+  "name": "helpline no\u0027s",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a241deed-3397-47ee-8b5f-53012435bc32",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Central Helpline Number for corona-virus: - +91-11-23978046 \n \nState Helpline Nos:\n1)Andhra Pradesh- 0866-2410978\n2)Arunachal Pradesh 9436055743 \n3)Assam 6913347770 \n4)Bihar 104 \n5)Chhattisgarh 104 \n6)Goa 104 \n7)Gujarat 104 \n8)Haryana 8558893911 \n9)Himachal Pradesh 104 \n10)Jharkhand 104\n11)Karnataka 104 \n12)Kerala 0471-2552056 \n13)Madhya Pradesh 104 \n14)Maharashtra 020-26127394 \n15)Manipur 3852411668 \n16)Meghalaya 108 \n17)Mizoram 102 \n18)Nagaland 7005539653 \n19)Odisha 9439994859\n20)Punjab 104 \n21)Rajasthan 0141-2225624 \n22)Sikkim 104\n23)Tamil Nadu 044-29510500 \n24)Telangana 104 \n25)Tripura 0381-2315879 \n26)Uttarakhand 104 \n27)Uttar Pradesh 18001805145 \n28)West Bengal 1800313444222, 03323412600\n\nUnion Territory (UT) Helpline Nos: \n1)Andaman and Nicobar Islands 03192-232102 \n2)Chandigarh 9779558282 \n3)Dadra and Nagar Haveli and Daman \u0026 Diu 104 \n4)Delhi 011-22307145\n5)Jammu \u0026 Kashmir 01912520982, 0194-2440283 \n6)Ladakh 01982256462 \n7)Lakshadweep 104 \n8)Puducherry 104"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

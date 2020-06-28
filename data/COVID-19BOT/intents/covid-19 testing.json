@@ -1,0 +1,31 @@
+{
+  "id": "0559d424-032f-4c7d-a555-fd681d3d3a55",
+  "name": "covid-19 testing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "There are two types of testing done for\ncorona currently:\nAntigen testing: A protein on the surface\nof the virus called a spike protein can be\ntested by amplifying it in the lab using a\nmethod called rt-PCR. This is a slower\nmethod of testing and takes about 24\nhours for results.\nAntibody testing: A test is available which\ndetects the presence of antibodies\nproduced by the immune cells of our body\ntowards the virus. This is a more rapid\nform of testing. Results can be made\navailable in a time frame varying from a\nfew minutes to a few hours."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

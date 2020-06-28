@@ -1,0 +1,31 @@
+{
+  "id": "51bb2987-03d7-4a64-bcff-c02faee6a65b",
+  "name": "severe symptoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "People with Chronic Lung/ Liver / Kidney/\nHeart diseases or Diabetes/ hypertension/\nOld age are more likely to have serious\nconsequences from this disease."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

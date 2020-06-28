@@ -1,0 +1,44 @@
+{
+  "id": "dab86a00-3f75-421d-b18c-230a7d818f52",
+  "name": "authorised websites for donation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "611a9fb9-ff71-482c-b36c-246e4175dbdb",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Citizens and organisations can go to the website pmindia.gov.in and donate to PM CARES Fund using following details:\nName of the Account : PM CARES\nAccount Number : 2121PM20202\nIFSC Code          : SBIN0000691\nSWIFT Code        : SBININBB104\nName of Bank \u0026 Branch : State Bank of India, New Delhi Main Branch\nUPI ID : pmcares@sbi"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

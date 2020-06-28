@@ -1,0 +1,56 @@
+[
+  {
+    "id": "a6529c9f-855f-48c7-bde2-dc0f060d5c30",
+    "data": [
+      {
+        "text": "symptoms of covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1573fb99-92d9-46c4-8066-b696a8890843",
+    "data": [
+      {
+        "text": "symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc788a22-ae98-4e7c-8d8a-fce7b9693d6e",
+    "data": [
+      {
+        "text": "let me know the symptoms of covid",
+        "userDefined": false
+      },
+      {
+        "text": "-19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1fa91841-1ba3-41d8-a407-8e1bff2d4e79",
+    "data": [
+      {
+        "text": "what are the symptoms of covid-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

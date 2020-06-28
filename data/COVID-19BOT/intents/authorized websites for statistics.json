@@ -1,0 +1,62 @@
+{
+  "id": "52f1eef5-1614-4e1f-bf28-132bc7585699",
+  "name": "authorized websites for statistics",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "65f85147-bf26-4154-a7c0-ecdfcc81e8f8",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "0447e3a1-27b4-47be-8dc8-b982b01e9925",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "1)For statistcs and info around the world, visit   https://covid19.who.int/ \n2)Donate to WHO’s fund, visit https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate\n\n3)For statistcs and info in India, visit https://webcache.googleusercontent.com/search?q\u003dcache:Q7S18eyhhpgJ:https://www.mohfw.gov.in/"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

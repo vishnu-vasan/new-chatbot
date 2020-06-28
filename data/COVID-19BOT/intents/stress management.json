@@ -1,0 +1,34 @@
+{
+  "id": "dc89cfac-efa3-4174-8aad-50f8aaabf2e0",
+  "name": "stress management",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Here are some of the most interesting things that you can do during the lockdown in your home:\n1. Learn a language \n2. Learn to play an instrument \n3. Write a novel\n4. Get fit\n5. Cook something new\n6. Play a board game\n7.Learn first aid\n8.Discover your roots\n9.Meditate\n10.Improve your communication skills",
+            "1. Research volunteering opportunities in your city and mark down the most interesting ones. When the quarantines and isolation ends, we’ll still be in a pretty precarious situation. Making a personal contribution is the best way to show the world you care.\n2. Keep a quarantine diary: it will be \"fun\" to read it again in a few years.\n3. If you have a creative hobby like photography, painting, sculpture, writing, or graphic design, consider entering a competition.\n4. Study. It’s now possible to take thousands of top-level courses online, completely free.\n5. Help the poor and needy people in your locality.\n6. Learn new languages which would be really helpful ."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

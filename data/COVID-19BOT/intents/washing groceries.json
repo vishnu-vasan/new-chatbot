@@ -1,0 +1,31 @@
+{
+  "id": "93a5c301-437f-4863-8eef-0359f179b4f8",
+  "name": "washing groceries",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "1.Despite the low risk of contamination, if you feel particularly anxious about the possibility of the virus spreading on food packaging you can use antibacterial wipes or disinfectant spray before storing them away in your cupboards or fridge.\n\n2.When it comes to fresh produce, such as fruits and vegetables, do not use products containing any chemicals to clean them.\n\n3.“For unwrapped fresh goods, which could have been handled by anyone, wash thoroughly under running water and leave to dry."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

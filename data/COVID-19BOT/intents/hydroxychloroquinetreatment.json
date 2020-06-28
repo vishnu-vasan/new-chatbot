@@ -1,0 +1,31 @@
+{
+  "id": "fb6e93fd-4e46-4bb3-a035-ca495c85bbd3",
+  "name": "hydroxychloroquinetreatment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Hydroxychloroquine has many side effects\nsuch as vision disturbances, heart attacks,\nsevere vomiting and intolerance. Current\nresearch suggests it may not have much\nuse in practice. Therefore it is only to be\nused on experimental basis by health care\nprofessionals under strict medical\nsupervision."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

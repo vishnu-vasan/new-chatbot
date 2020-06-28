@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4e1df03a-7fd7-4b83-a823-f4544a349fa3",
+    "data": [
+      {
+        "text": "reinfection from corona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bcdb8611-c8f5-4b97-968d-6aed0702d3ad",
+    "data": [
+      {
+        "text": "reinfection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cac9e9bb-5088-4f7c-8f10-3dd614ba0399",
+    "data": [
+      {
+        "text": "I recovered from the corona. will I get infected again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5ad2440-4d72-45c7-a6fd-3ef540c48e2c",
+    "data": [
+      {
+        "text": "i recovered from covid-19.will i get infected again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14cdaae7-a286-41d2-9977-51608f4c27c7",
+    "data": [
+      {
+        "text": "will anyone be reinfected by corona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

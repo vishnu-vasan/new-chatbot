@@ -1,0 +1,47 @@
+{
+  "id": "ee0889b1-64c9-44d7-b0ec-4e7bd166817b",
+  "name": "symptoms of covid-19",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0b4a500e-96c5-4cce-8de1-8270f9c2365b",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Common symptoms:\nfever,\ntiredness,\ndry cough.\nSome people may experience:\naches and pains,\nnasal congestion,\nrunny nose,\nsore throat,\ndiarrhoea. dont worry even if u have these symptoms..self-isolate and visit the nearest health care!!!",
+            "It can vary from flu like symptoms such as\ncold, cough, running nose, fever, altered\nsense of taste and smell, generalised body\npain and can be as severe as\nbreathlessness, respiratory distress,\npneumonia etc.\nIt can also manifest as loose motions,\nvomiting.\nSometimes it can present only as fever\nlasting for greater than 72 hours with no\nother relevant symptoms and not\n\nresponding to over the counter fever\nmedications such as paracetamol."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

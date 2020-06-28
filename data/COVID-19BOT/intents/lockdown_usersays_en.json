@@ -1,0 +1,104 @@
+[
+  {
+    "id": "61e53c1e-5b83-4e99-95e3-5be110760074",
+    "data": [
+      {
+        "text": "Till when is the lockdown in ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fc4b53f-f55b-4f1e-be35-2ee2b32a990c",
+    "data": [
+      {
+        "text": "For how many days will we have to stay in quarantine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56a5bbed-8415-41b8-980f-1d276fc17398",
+    "data": [
+      {
+        "text": "When is the lockdown in ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " supposed to end?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "630307e5-893e-48f8-b5a9-fe9f8661d057",
+    "data": [
+      {
+        "text": "When shall we come to our normal routine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b817ed84-6a9e-4c2f-966b-f428a6aa07b8",
+    "data": [
+      {
+        "text": "When shall the complete lockdown in ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " due to COVID-19 be removed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4866edf6-3f25-4bbc-8db3-b3a489a23e3d",
+    "data": [
+      {
+        "text": "when shall i able to leave my house?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

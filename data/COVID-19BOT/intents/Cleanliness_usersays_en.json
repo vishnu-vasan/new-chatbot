@@ -1,0 +1,50 @@
+[
+  {
+    "id": "075be106-619b-49ad-b80f-1dd89d734e9c",
+    "data": [
+      {
+        "text": "Can I use soap to wash vegetables?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26ed17e3-d9ee-465e-b893-ce1e7c5ea89b",
+    "data": [
+      {
+        "text": "How to wash vegetables?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04fe3d09-685e-4d90-9489-db3baa755672",
+    "data": [
+      {
+        "text": "How to wash fruits?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e815e1f-d319-49bd-abef-b530e23d372b",
+    "data": [
+      {
+        "text": "How to wash fruits and vegetables ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

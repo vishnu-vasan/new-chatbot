@@ -1,0 +1,35 @@
+{
+  "id": "489eac82-2c68-4a9b-a6a4-10688bbb31e9",
+  "name": "covid-19 general information",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "COVID-19 stands for CORONA VIRUS INFECTIOUS DISEASE 2019\nCOVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus\nand disease were unknown before the outbreak began in Wuhan, China, in December 2019.",
+            "Corona viruses are a large family of viruses which may cause illness in animals or humans. In humans,\nseveral corona viruses are known to cause respiratory infections ranging from the common cold to more\nsevere diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory\nSyndrome (SARS). The most recently discovered corona virus causes corona virus disease COVID-19.",
+            "It is a new strain which came into world\nattention in late November/Early\nDecember of 2019 in Wuhan, Hubei\nprovince, China and is active across the\nworld till date. It is the 7 th coronavirus to\ncause infections in humans and 3 rd one to\ncause death. It is called a coronavirus\nbecause it belongs to a family of viruses\nwhich appear like a crown under electron\nmicroscope."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

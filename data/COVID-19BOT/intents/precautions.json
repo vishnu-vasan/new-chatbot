@@ -1,0 +1,34 @@
+{
+  "id": "d54bc103-bd21-4a20-821e-3c4fa740b02d",
+  "name": "precautions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "PRECAUTIONS:                                                                                                                                                                                        Wash your hands thoroughly and frequently and use an alcohol handwash where possible. \n\n·         Avoid touching your face, including rubbing eyes. \n\n·         Avoid handshaking, hugging, air kissing, touching or group selfies. \n\n·         Sneeze into a tissue and cough into your elbow. \n\n·         Disinfect high touch surfaces regularly and keep your desk, keyboard and mouse clean and tidy.",
+            "Some preventive measures :1) Clean your hands often. Use soap and water, or an alcohol-based hand rub.\n2) Maintain a safe distance from anyone who is coughing or sneezing.\n3) Don’t touch your eyes, nose or mouth.Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze.Stay home if you feel unwell.\n4) If you have a fever, a cough, and difficulty breathing, seek medical attention. Call in advance\n5) Follow the directions of your local health authority.Avoiding unneeded visits to medical facilities allows healthcare systems to operate more effectively, therefore protecting you and others."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

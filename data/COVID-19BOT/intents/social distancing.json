@@ -1,0 +1,31 @@
+{
+  "id": "dab2f71d-4aca-43c5-bc3c-d22c125c49ff",
+  "name": "social distancing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Social distancing means keeping space between yourself and other people outside of your home. To practice social or distancing: Stay at least 6 feet (2 meters) from other people Do not gather in groups Stay out of crowded places and avoid mass gatherings."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

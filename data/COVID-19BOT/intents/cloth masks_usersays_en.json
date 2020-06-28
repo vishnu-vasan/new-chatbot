@@ -1,0 +1,38 @@
+[
+  {
+    "id": "34878a37-97aa-47a4-af26-bb13aee78fef",
+    "data": [
+      {
+        "text": "cloth masks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b50c72a-ad9f-44ab-a398-fb61d1311d71",
+    "data": [
+      {
+        "text": "can we use cloth masks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31a048ad-5960-44d8-b3bb-6e45d9287a39",
+    "data": [
+      {
+        "text": "Will a cloth mask be effective?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

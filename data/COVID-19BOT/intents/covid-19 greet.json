@@ -1,0 +1,44 @@
+{
+  "id": "445bf354-48bb-4e8f-8529-532f8884bf78",
+  "name": "covid-19 greet",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "hey!!this is covid-19 chatbot.How can i help u??",
+            "hello",
+            "welcome to covid-19 chatbot",
+            "hello, how can i help you?",
+            "hi, how can i assist you",
+            "hi, i am here to assist you about covid 19"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

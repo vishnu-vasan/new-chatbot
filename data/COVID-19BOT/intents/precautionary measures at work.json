@@ -1,0 +1,31 @@
+{
+  "id": "57053ec6-e93b-43ee-a9ce-f214e516c80d",
+  "name": "precautionary measures at work",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "precautionary measures at work:For Staff - Workplace etiquette  \n\n·         Where possible meet outside or use video or teleconferencing for meetings.  \n\n·         Where possible, keep a reasonable distance away from others (1.5 metres is recommended). \n\n·         Limit the length of in person meetings to 2 hours at the most where participants can be appropriately separate and no more than 15 minutes where space is more confined."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

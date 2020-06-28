@@ -1,0 +1,60 @@
+[
+  {
+    "id": "bd14c8d0-3fc7-48c2-99ae-4ad5560fb9bc",
+    "data": [
+      {
+        "text": "whom should i contact?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85a06e40-e9d5-4a77-9b53-b939ad4fd7a6",
+    "data": [
+      {
+        "text": "helpline number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95debe81-a095-4eb7-81c1-ed3d97a6fcff",
+    "data": [
+      {
+        "text": "toll free number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1da15a93-c1f1-4dfd-806e-a4dcb9f7a047",
+    "data": [
+      {
+        "text": "give me the toll free number in ",
+        "userDefined": false
+      },
+      {
+        "text": "india",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " for corona virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

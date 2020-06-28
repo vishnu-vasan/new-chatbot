@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2daa7c0e-3a16-4e32-a4e4-52a52e4e7044",
+    "data": [
+      {
+        "text": "precautions at work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "342e7dd3-6199-4f0a-affc-aac4bb3fce1e",
+    "data": [
+      {
+        "text": "precautions at office",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6ae56f93-6390-4793-8960-f5f894e35b5a",
+    "data": [
+      {
+        "text": "precautionary measures at work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

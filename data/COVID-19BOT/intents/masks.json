@@ -1,0 +1,31 @@
+{
+  "id": "75c56576-6d51-4c83-bdb6-b5e018cf4f27",
+  "name": "masks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "There are two types of masks which are\navailable currently:\nSurgical/2 ply (Layer) mask: This type of\nmask provides one way protection,\nmeaning a person wearing this mask\ncannot spread the virus to other people.\nHowever it does not provide protection to\n\nthe wearer from getting infected.\nHowever if enough people wear this mask\n(ideally everyone in public and positive\ncases at home), we can prevent the\nspread of the disease almost completely.\nN95 Mask/ N95 Respirator: This 4 ply\nmask provides 2 way protection for both\nthe wearer and the people around the\nperson wearing the mask. It also provides\nprotection from aerosols released by a\npatient. Therefore it is advised that all\nhealth care professionals treating COVID\n19 patients on a daily basis, putting tube\nfor patients with respiratory distress due\nto COVID 19 or testing patients suspected\nwith COVID 19 (any procedure releasing\naerosols) should use these masks. It is not\nadvised to be used by general public."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

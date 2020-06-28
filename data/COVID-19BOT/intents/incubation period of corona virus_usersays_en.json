@@ -1,0 +1,50 @@
+[
+  {
+    "id": "a9574022-f0da-4cee-8739-8faed3b5b3b3",
+    "data": [
+      {
+        "text": "How long after exposure can one develop symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc60a970-4cf7-4ff8-8328-7bd86fdf178c",
+    "data": [
+      {
+        "text": "when does one start to show the symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2439f077-9fb4-4aaa-874f-ec37a537c1ed",
+    "data": [
+      {
+        "text": "what is the incubation period for corona virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10c6d3c0-337f-4e92-984a-e6088ac48df1",
+    "data": [
+      {
+        "text": "after how many days does the infected person starts to show the symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

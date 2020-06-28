@@ -1,0 +1,31 @@
+{
+  "id": "19afea5b-3db8-49b7-8bea-acb3b56b7a01",
+  "name": "covid-19 vaccine",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Under WHO’s coordination, a group of experts with diverse backgrounds is working towards the development of vaccines against COVID-19.\n\nThe group makes a call to everyone to follow recommendations to prevent the transmission of the COVID-19 virus and protect the health of individuals.While a vaccine for general use takes time to develop, a vaccine may ultimately be instrumental in controlling this worldwide pandemic.A vaccine is being developed by scientists at the University of Oxford who believe there is an 80 per cent chance of success.Human trials of a potential coronavirus vaccine will start in the UK on 23-04-2020, Health Minister Matt Hancock said on 21-04-2020 as he added a word of caution that \"nothing about this process is certain\"."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

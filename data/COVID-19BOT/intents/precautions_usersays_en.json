@@ -1,0 +1,50 @@
+[
+  {
+    "id": "f1588343-d79f-459c-8be4-44d53185b184",
+    "data": [
+      {
+        "text": "preventive measures",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d64b9d47-73b5-4157-9ed2-30402227977e",
+    "data": [
+      {
+        "text": "precautionary measures",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c66f2b84-8aa3-4219-ad32-4a5dc972bdd7",
+    "data": [
+      {
+        "text": "precautions to protect from covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "137a901e-d991-4e50-b619-bf12f7574222",
+    "data": [
+      {
+        "text": "precautions to protect from corona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

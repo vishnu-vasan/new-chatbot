@@ -1,0 +1,304 @@
+intents:
+  - covid-19 general information
+  - covid-19 greet
+  - covid-19 myths
+  - covid-19 reinfection
+  - covid-19 testing
+  - covid-19 vaccine
+  - hydroxychloroquinetreatment
+  - incubationperiodofcoronavirus
+  - list
+  - lockdown
+  - masks
+  - precautionarymeasuresatwork
+  - authorised_websites_for_donation
+  - authorised_websites_for_statistics
+  - can_animal_transmit
+  - cleanliness
+  - cloth_masks
+  - corona_transmission_through_air
+  - covid_causes
+  - precautions
+  - severe symptoms
+  - social distancing
+  - stress management
+  - symptoms of covid-19
+  - washing groceries
+  - helpline numbers
+  - sanitization
+  - lungs
+  - quarantine
+  - hand_washing
+  - corona_state
+  - name
+  - none
+
+entities:
+  - state
+
+responses:
+  utter_general:
+  - text: "COVID-19 stands for CORONA VIRUS INFECTIOUS DISEASE 2019 \n COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019."
+  - text: "Corona viruses are a large family of viruses which may cause illness in animals or humans. In humans,\n several corona viruses are known to cause respiratory infections ranging from the common cold to more \n severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS).\n The most recently discovered corona virus causes corona virus disease COVID-19."
+  - text: "It is a new strain which came into world \n attention in late November/Early \n December of 2019 in Wuhan, Hubei \n province, China and is active across the \n world till date. It is the 7 th coronavirus to \n  cause infections in humans and 3 rd one to \n cause death. It is called a coronavirus \n because it belongs to a family of viruses \n which appear like a crown under electron microscope."
+
+  utter_greet:
+  - text: "hey!!this is covid-19 chatbot.How can i help u??"
+  - text: "hello"
+  - text: "welcome to covid-19 chatbot"
+  - text: "hello, how can i help you?"
+  - text: "hi, how can i assist you"
+  - text: "hi, i am here to assist you about covid 19"
+
+  utter_myths:
+  - text: "COVID-19 virus can be transmitted in areas with hot and humid climates: From the evidence so far, the COVID-19 virus can be transmitted in ALL AREAS, including areas with hot and humid weather. Regardless of climate, adopt protective measures if you live in, or travel to an area reporting COVID-19."
+  - text: "Cold weather and snow CANNOT kill the new coronavirus. There is no reason to believe that cold weather can kill new coronavirus or other diseases. The normal human body temperature remains around 36.5°C to 37°C, regardless of the external temperature or weather."
+  - text: "Can an ultraviolet disinfection lamp kill the new coronavirus? UV lamps should not be used to sterilize hands or other areas of skin as UV radiation can cause skin"
+  - text: "How effective are thermal scanners in detecting people infected with the new coronavirus? Thermal scanners are effective in detecting people who have developed a fever (i.e. have a higher than normal body temperature) because of infection with the new coronavirus. However, they cannot detect people who are infected but are not yet sick with a fever. This is because it takes between 2 and 10 days before people who are infected become sick and develop a fever."
+  - text: "Does the new coronavirus affect older people, or are younger people also susceptible? People of all ages can be infected by the new coronavirus (2019-nCoV). Older people and people with pre-existing medical conditions (such as asthma, diabetes, heart disease) appear to be more vulnerable to becoming severely ill with the virus."
+  - text: "Can regularly rinsing your nose with saline help prevent infection with the new coronavirus? \n No. There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus."
+  - text: "There is some limited evidence that regularly rinsing nose with saline can help people recover more quickly from the common cold. However, regularly rinsing the nose has not been shown to prevent respiratory infections."
+  - text: "Drinking alcohol does not protect you against COVID-19 and can be dangerous-FACT: Frequent or excessive alcohol consumption can increase your risk of health problems."
+  - text: "Being able to hold your breath for 10 seconds or more without coughing or feeling discomfort DOES NOT mean you are free from the coronavirus disease (COVID-19) or any other lung disease."
+  - text: "You can recover from the coronavirus disease (COVID-19). Catching the new coronavirus DOES NOT mean you will have it for life-FACT:You can recover from the coronavirus disease (COVID-19). Catching the new coronavirus DOES NOT mean you will have it for life."
+  - text: "Exposing yourself to the sun or to temperatures higher than 25C degrees DOES NOT prevent the coronavirus disease (COVID-19)-FACT: You can catch COVID-19, no matter how sunny or hot the weather is. Countries with hot weather have reported cases of COVID-19. To protect yourself, make sure you clean your hands frequently and thoroughly and avoid touching your eyes, mouth, and nose."
+  - text: "5G mobile networks DO NOT spread COVID-19; FACT: Viruses cannot travel on radio waves/mobile networks. COVID-19 is spreading in many countries that do not have 5G mobile networks."
+  - text: "Taking a hot bath does not prevent the new coronavirus disease-FACT: Taking a hot bath will not prevent you from catching COVID-19. Your normal body temperature remains around 36.5°C to 37°C, regardless of the temperature of your bath or shower. Actually, taking a hot bath with extremely hot water can be harmful, as it can burn you."
+  - text: "The new coronavirus CANNOT be transmitted through mosquito bites.-FACT:To date there has been no information nor evidence to suggest that the new coronavirus could be transmitted by mosquitoes. The new coronavirus is a respiratory virus which spreads primarily through droplets generated when an infected person coughs or sneezes, or through droplets of saliva or discharge from the nose."
+
+  utter_reinfection:
+  - text: "yes!!!there are chances of reinfection. A study published in the Journal of American Medical Association (JAMA) found that some of the patients who recovered from COVID-19 were found to be re-infected with the novel coronavirus."
+
+  utter_testing:
+  - text: "There are two types of testing done for \n corona currently: \n Antigen testing: A protein on the surface \n  of the virus called a spike protein can be \n tested by amplifying it in the lab using a \n method called rt-PCR. This is a slower \n method of testing and takes about 24 \n hours for results. \n Antibody testing: A test is available which \n detects the presence of antibodies \n produced by the immune cells of our body \n towards the virus. This is a more rapid \n form of testing. Results can be made \n available in a time frame varying from a \n  few minutes to a few hours."
+
+  utter_vaccine:
+  - text: "Under WHO’s coordination, a group of experts with diverse backgrounds is working towards the development of vaccines against COVID-19. \n The group makes a call to everyone to follow recommendations to prevent the transmission of the COVID-19 virus and protect the health of individuals.While a vaccine for general use takes time to develop, a vaccine may ultimately be instrumental in controlling this worldwide pandemic.A vaccine is being developed by scientists at the University of Oxford who believe there is an 80 per cent chance of success.Human trials of a potential coronavirus vaccine will start in the UK on 23-04-2020, Health Minister Matt Hancock said on 21-04-2020 as he added a word of caution that \"nothing about this process is certain \"."
+
+  utter_hydroxychloroquinetreatment:
+  - text: "Hydroxychloroquine has many side effects\nsuch as vision disturbances, heart attacks,\nsevere vomiting and intolerance. Current\nresearch suggests it may not have much\nuse in practice. Therefore it is only to be\nused on experimental basis by health care\nprofessionals under strict medical\nsupervision."
+
+  utter_incubationperiodofcoronavirus:
+  - text: "The incubation period means the time between catching the virus and beginning to have symptoms of the disease. Most estimates of the incubation period for COVID-19 range from 1-14 days, most commonly around five days. These estimates will be updated as more data become available."
+  utter_list:
+  - text: "Here are some of the topics that I can answer about \n1.Covid-19 general\
+      \ information \n2.Testing \n3.Vaccine \n4.Incubation period \n5.Lockdown \n\
+      6.Masks \n7.Precautionary measures \n8.Symptoms of covid-19 \n9.Helpline numbers\
+      \ \n10.Stress management \n11.Authorized Websites for Statistics \n12.Sanitization \n13.Quarantine \n14.Handwashing \nYou may type\
+      \ your queries and I can reply to them"
+
+  utter_lockdown:
+  - text: "States like Maharashtra, Tamil Nadu and Telangana extended the lockdown till June 30 with several relaxations. India is now the fourth most-affected nation in the global COVID-19 tally, with over 4.75 lakh cases and about 14,900 deaths."
+  - text: "The Centre plans to unlock all the economic activities in a phased manner, beginning with the opening of restaurants and malls on June 8. Though the lockdown 5.0 will last till June 30, it is only in containment zones. Also, the night curfew hours for areas outside these zones have been revised to 9 pm to 5 am from the earlier 7 pm to 7 am.The unlock 1.0, however, will play out differently in most states as they have been given the freedom to prohibit certain activities if they deem fit. But they cannot water down the Centre guidelines. A day before lockdown 4.0 expires, Tamil Nadu announced that it would be extending the lockdown till June 30."
+
+  utter_masks:
+  - text: "There are two types of masks which are\n available currently:\nSurgical/2 ply (Layer) mask: This type of\nmask provides one way protection,\nmeaning a person wearing this mask\ncannot spread the virus to other people.\nHowever it does not provide protection to\n\nthe wearer from getting infected.\nHowever if enough people wear this mask\n(ideally everyone in public and positive\ncases at home), we can prevent the\nspread of the disease almost completely.\nN95 Mask/ N95 Respirator: This 4 ply\nmask provides 2 way protection for both\nthe wearer and the people around the\nperson wearing the mask. It also provides\nprotection from aerosols released by a\npatient. Therefore it is advised that all\nhealth care professionals treating COVID\n19 patients on a daily basis, putting tube\nfor patients with respiratory distress due\nto COVID 19 or testing patients suspected\nwith COVID 19 (any procedure releasing\naerosols) should use these masks. It is not\nadvised to be used by general public."
+
+  utter_precautionarymeasuresatwork:
+  - text: "precautionary measures at work:For Staff - Workplace etiquette  \n\n·Where possible meet outside or use video or teleconferencing for meetings.  \n\n· Where possible, keep a reasonable distance away from others (1.5 metres is recommended). \n\n·         Limit the length of in person meetings to 2 hours at the most where participants can be appropriately separate and no more than 15 minutes where space is more confined."
+
+  utter_authorised_websites_for_donation:
+  - text: "Thank you !"
+  - text: "I'm glad I could help you"
+  - text: "Thanks for using me "
+
+  utter_authorised_websites_for_statistics:
+  - text: "Type the name of the state to get information about active cases,recovery, total confirmed cases and deaths in that particular state due to covid -19 ."
+
+  utter_can_animal_transmit:
+  - text: "At this time, there is no evidence that animals play a significant role in spreading the virus that causes COVID-19."
+
+  utter_cleanliness:
+  - text: "For washing fruits and vegetables, use only running water. Keep the fresh products under running and clean them Any form of soap or disinfectant is not recommended since they are not meant for human consumption."
+
+  utter_cloth_masks:
+  - text: "Yes, a 2 layer cloth mask is almost as effective as a surgical 2 ply mask."
+
+  utter_corona_transmission_through_air:
+  - text: "the virus that causes COVID-19 is mainly transmitted through droplets generated when an infected person coughs, sneezes, or speaks. These droplets are too heavy to hang in the air. They quickly fall on floors or surfaces. You can be infected by breathing in the virus if you are within 1 metre of a person who has COVID-19, or by touching a contaminated surface and then touching your eyes, nose or mouth before washing your hands."
+
+  utter_covid_causes:
+  - text: "People can catch COVID-19 from others who have the virus. The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. These droplets land on objects and surfaces around the person. Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth.
+\nPeople can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets. This is why it is important to stay more than 1 meter (3 feet) away from a person who is sick."
+
+  utter_precautions:
+    - text: "PRECAUTIONS:
+        \n.Wash your hands thoroughly and frequently and use an alcohol handwash where possible.
+        \n.Avoid touching your face, including rubbing eyes.
+        \n.Avoid handshaking, hugging, air kissing, touching or group selfies.
+        \n.Sneeze into a tissue and cough into your elbow.
+        \n.Disinfect high touch surfaces regularly and keep your desk, keyboard and mouse clean and tidy."
+
+    - text: "Some preventive measures:
+        \n1) Clean your hands often. Use soap and water, or an alcohol-based hand rub.
+        \n2) Maintain a safe distance from anyone who is coughing or sneezing.
+        \n3) Don’t touch your eyes, nose or mouth.Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze.Stay home if you feel unwell.
+        \n4) If you have a fever, a cough, and difficulty breathing, seek medical attention. Call in advance
+        \n5) Follow the directions of your local health authority.Avoiding unneeded visits to medical facilities allows healthcare systems to operate more effectively, therefore protecting you and others."
+
+  utter_helpline numbers:
+    - text: "Central Helpline Number for corona-virus: - +91-11-23978046 \n\n\
+        State Helpline Nos- \n\
+        1)Andhra Pradesh- 0866-2410978 \n\
+        2)Arunachal Pradesh 9436055743 \n\
+        3)Assam 6913347770 \n\
+        4)Bihar 104 \n\
+        5)Chhattisgarh 104 \n\
+        6)Goa 104 \n\
+        7)Gujarat 104 \n\
+        8)Haryana 8558893911 \n\
+        9)Himachal Pradesh 104 \n\
+        10)Jharkhand 104 \n\
+        11)Karnataka 104 \n\
+        12)Kerala 0471-2552056 \n\
+        13)Madhya Pradesh 104 \n\
+        14)Maharashtra 020-26127394 \n\
+        15)Manipur 3852411668 \n\
+        16)Meghalaya 108 \n\
+        17)Mizoram 102 \n\
+        18)Nagaland 7005539653 \n\
+        19)Odisha 9439994859 \n\
+        20)Punjab 104 \n\
+        21)Rajasthan 0141-2225624 \n\
+        22)Sikkim 104 \n\
+        23)Tamil Nadu 044-29510500 \n\
+        24)Telangana 104 \n\
+        25)Tripura 0381-2315879 \n\
+        26)Uttarakhand 104 \n\
+        27)Uttar Pradesh 18001805145 \n\
+        28)West Bengal 1800313444222, 03323412600 \n\n\
+        Union Territory (UT) Helpline Nos- \n\
+        1)Andaman and Nicobar Islands 03192-232102 \n\
+        2)Chandigarh 9779558282 \n\
+        3)Dadra and Nagar Haveli and Daman & Diu 104 \n\
+        4)Delhi 011-22307145 \n\
+        5)Jammu & Kashmir 01912520982, 0194-2440283 \n\
+        6)Ladakh 01982256462 \n\
+        7)Lakshadweep 104 \n\
+        8)Puducherry 104 "
+
+  utter_severe symptoms:
+    - text: "People with Chronic Lung/ Liver / Kidney/Heart diseases or Diabetes/ hypertension/ Old age are more likely to have serious consequences from this disease."
+
+  utter_social distancing:
+    - text: "Social distancing means keeping space between yourself and other people outside of your home. To practice social distancing: Stay at least 6 feet (2 meters) from other people Do not gather in groups Stay out of crowded places and avoid mass gatherings."
+
+  utter_stress management:
+    - text:
+        "Here are some of the most interesting things that you can do during the lockdown in your home:
+        \n1. Learn a language
+        \n2. Learn to play an instrument
+        \n3. Write a novel
+        \n4. Get fit
+        \n5. Cook something new
+        \n6. Play a board game
+        \n7.Learn first aid
+        \n8.Discover your roots
+        \n9.Meditate
+        \n10.Improve your communication skills."
+
+    - text:
+        "1. Research volunteering opportunities in your city and mark down the most interesting ones. When the quarantines and isolation ends, we’ll still be in a pretty precarious situation. Making a personal contribution is the best way to show the world you care.
+        \n2. Keep a quarantine diary- it will be fun to read it again in a few years.
+        \n3. If you have a creative hobby like photography, painting, sculpture, writing, or graphic design, consider entering a competition.
+        \n4. Study. It’s now possible to take thousands of top-level courses online, completely free.
+        \n5. Help the poor and needy people in your locality.
+        \n6. Learn new languages which would be really helpful ."
+
+  utter_symptoms of covid-19:
+    - text: "Common symptoms:
+        \n fever,
+        \n tiredness,
+        \n dry cough.
+        \n Some people may experience -
+        \n aches and pains,
+        \n nasal congestion,
+        \n runny nose,
+        \n sore throat,
+        \n diarrhoea.
+        Don't worry even if you have these symptoms..self-isolate and visit the nearest health care!!! "
+
+    - text:
+        "It can vary from flu like symptoms such as cold, cough, running nose, fever, altered sense of taste and smell, generalised body pain and can be as severe as breathlessness, respiratory distress, pneumonia etc.
+        It can also manifest as loose motions,vomiting.Sometimes it can present only as fever lasting for greater than 72 hours with no other relevant symptoms and not responding to over the counter fever medications such as paracetamol."
+
+  utter_washing groceries:
+    - text:
+        "1.Despite the low risk of contamination, if you feel particularly anxious about the possibility of the virus spreading on food packaging you can use antibacterial wipes or disinfectant spray before storing them away in your cupboards or fridge.
+        \n2.When it comes to fresh produce, such as fruits and vegetables, do not use products containing any chemicals to clean them.
+        \n3.For unwrapped fresh goods, which could have been handled by anyone, wash thoroughly under running water and leave to dry."
+
+  utter_sanitization:
+    - text:
+        "When shopping for hand sanitizer, make sure you choose a sanitizer that contains between 60-95% alcohol(preferably isopropyl alcohol). Also, when you use hand sanitizer, make sure you do so the right way. Find the directions on the back of the bottle and follow the proper technique. Generally, apply the liquid to the palm of one hand. Then rub it all over both hands until the sanitizer dries. This takes about 20 seconds. Be careful not to wipe the sanitizer off before it’s dry. Doing that can make it not as effective in killing germs.
+        \nThere are many times you should use hand sanitizer, such as before and after touching a surface other people have touched. It’s good to wipe down the handle of a shopping cart before you use it. It’s also wise to use sanitizer after you’ve pushed a cart around the store, after filling your vehicle with fuel, after handling money, and after touching elevator buttons or door handles. Always wash your hands (with either soap and water or hand sanitizer) after each time you cough and sneeze."
+
+  utter_lungs:
+    - text:
+        "Covid 19 primarily infects the lungs in the affected individuals and in severe cases causes’ death due to ARDS and pneumonia. It is important to remember that it does not lead to ARDS and pneumonia in all the cases, which is an occurrence in most severe cases.
+        \nIn the majority of the cases i.e. 80% will exhibit mild symptoms, 14% will have pneumonia, 5% will suffer from septic shock and organ failure (mostly respiratory failure) and in 2% cases it will be fatal."
+    - text:
+        "Covid 19 directly impacts the lungs and damages the alveoli (tiny air sacs). The function of the alveolus is to transfer oxygen to the blood vessels. These blood vessels or capillaries carry the oxygen to the RBCs (Red blood cells). It is the RBCs that finally deliver the oxygen to all the internal organs in the body.
+        \nThe virus works by damaging the wall and the lining of the alveolus and capillaries. The debris from the damage, which is plasma protein accumulates on the alveolus wall and thickens the lining. As the walls’ thicken, the transfer of oxygen to the red blood cells is impaired. The thicker the wall gets, the more difficult it gets to transfer oxygen to the red blood cells, which causes difficulty in breathing as the body is running short of oxygen. And the lack of oxygen to the internal organs results in a deficit in the body and impairs the functioning of the organs. At this juncture, the body fights to increase oxygen intake."
+  utter_quarantine:
+    - text:
+        "Quarantine is used to keep someone who might have been exposed to COVID-19 away from others. Quarantine helps prevent spread of disease that can occur before a person knows they are sick or if they are infected with the virus without feeling symptoms. People in quarantine should stay home, separate themselves from others, monitor their health, and follow directions from their state or local health department.
+        \nThe home quarantined person should: Stay in a well-ventilated single-room preferably with an attached/separate toilet. If another family member needs to stay in the same room, it's advisable to maintain a distance of at least 1 meter between the two.The quarantine period should be at least 14 days.\n
+        \n Isolation is used to separate people infected with the virus (those who are sick with COVID-19 and those with no symptoms) from people who are not infected. People who are in isolation should stay home until it’s safe for them to be around others. In the home, anyone sick or infected should separate themselves from others by staying in a specific “sick room” or area and using a separate bathroom (if available)."
+
+  utter_handwashing:
+    - text:
+        "Proper handwashing not only reduces the spread of Coronavirus (COVID-19), it can prevent the spread of other viral illnesses such as cold and flu. Handwashing also reduces the risk of getting other easily spread infections, such SARS (severe acute respiratory syndrome) and MERS (Middle East respiratory syndrome).\n
+        \nWet: Put both your hands under clean, running water.
+        \n\nLather: Apply a generous amount of soap to the inside and back of your hands as well as your fingertips. Wash your hands for at least 20 seconds (sing happy birthday) and don’t forget to wash under jewelry and fingernails. Your fingertips are especially important as people often put their fingers on their face, nose, and eyes. This is how the virus spreads.
+        \n\nScrub: Rub both hands together and move your fingertips around both hands. You don’t need a scrub brush. You don’t need to make harsh, scrubbing movements.
+        \n\nRinse: Return both hands to the running water and gently wash away the soap.
+        \n\nDry: Completely dry the water from your hands. Using a disposable towel (paper towel) is best to avoid leaving germs on towels. Air dryers, commonly found in public bathrooms, are also effective."
+
+  utter_name:
+    - text:
+        "I'm your COVID-19 Assistant.I can provide you information about COVID-19"
+    - text:
+        "You can call me COVID-19 Assistant.How may I help you ?"
+
+  utter_default:
+    - text: "Sorry I didn't get it. Could you please repeat ? "
+
+
+actions:
+  - utter_general
+  - utter_greet
+  - utter_myths
+  - utter_reinfection
+  - utter_testing
+  - utter_vaccine
+  - utter_hydroxychloroquinetreatment
+  - utter_incubationperiodofcoronavirus
+  - utter_list
+  - utter_lockdown
+  - utter_masks
+  - utter_precautionarymeasuresatwork
+  - utter_authorised_websites_for_donation
+  - utter_authorised_websites_for_statistics
+  - utter_can_animal_transmit
+  - utter_cleanliness
+  - utter_cloth_masks
+  - utter_corona_transmission_through_air
+  - utter_covid_causes
+  - utter_precautions
+  - utter_severe symptoms
+  - utter_social distancing
+  - utter_stress management
+  - utter_symptoms of covid-19
+  - utter_washing groceries
+  - utter_helpline numbers
+  - utter_sanitization
+  - utter_lungs
+  - utter_quarantine
+  - utter_handwashing
+  - utter_name
+  - action_corona_tracker
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

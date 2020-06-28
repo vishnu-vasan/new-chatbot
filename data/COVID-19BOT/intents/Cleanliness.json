@@ -1,0 +1,31 @@
+{
+  "id": "d58abcca-c7b5-4d17-94aa-0dfb71ad959b",
+  "name": "Cleanliness",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "For washing fruits and vegetables, use only running water. Keep the fresh products under running and clean them Any form of soap or disinfectant is not recommended since they are not meant for human consumption."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

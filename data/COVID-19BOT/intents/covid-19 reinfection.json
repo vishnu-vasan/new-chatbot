@@ -1,0 +1,31 @@
+{
+  "id": "da40c80a-601c-45a1-937c-3228ef21851b",
+  "name": "covid-19 reinfection",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "yes!!!there are chances of reinfection. A study published in the Journal of American Medical Association (JAMA) found that some of the patients who recovered from COVID-19 were found to be re-infected with the novel coronavirus."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
