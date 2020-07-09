@@ -3,7 +3,7 @@ version: "3.0"
 services:
   rasa_chatbot:
     build: .
-    image: rasa-chatbot:latest
+    image: covid--chatbot-final:latest
     ports:
       - 5005:5005
     volumes:
@@ -13,16 +13,15 @@ services:
       - rasa
       - run
       - --enable-api
-      - --cors
-      - "*"
-      - --model
-      - /app/models
-      - --endpoints
-      - /app/config/endpoints.local.yml
+      - --cors "*"
+      - --model /app/models
+      - --endpoints /app/config/endpoints.yml
+      - --credentials /app/config/credentials.yml
+      - --port 5005
 
   action_server:
     build: actions
-    image: rasa-chatbot-actions:latest
+    image: covid--chatbot-final-actions:latest
     volumes:
       - ./actions:/app/actions
     command:

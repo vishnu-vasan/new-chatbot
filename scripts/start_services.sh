@@ -6,4 +6,4 @@
 rasa run actions --actions app.actions&
 
 # Start rasa server with nlu model
-rasa run --model models/20200628-163817.tar.gz --enable-api --cors "*" --debug -p $PORT 
+rasa run --model 20200628-163817.tar.gz --enable-api --debug -p $PORT 
